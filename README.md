@@ -1,4 +1,4 @@
-# Dinesh-# 👋 Hi, I'm Dinesh Kumar C
+👋 Hi, I'm Dinesh Kumar C
 
 ## 👨‍💻 About Me
 Analytical and detail-oriented Mechanical Engineering graduate with strong knowledge in **Business Analytics, Digital Marketing, and Industrial Automation**. Skilled in using **Power BI, Tableau, SQL, and MS Excel** to deliver actionable insights and optimize business decisions.
